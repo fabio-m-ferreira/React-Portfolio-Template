@@ -41,9 +41,9 @@ const Contact = () => {
           <article className="contact-option">
             <MdOutlineEmail className="contact-option-icon" />
             <h4>Email</h4>
-            <h5>jonh.doe@gmail.com</h5>
+            <h5>john.doe@gmail.com</h5>
             <a
-              href="mailto:jonh.doe@gmail.com"
+              href="mailto:john.doe@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -55,7 +55,7 @@ const Contact = () => {
             <RiMessengerLine className="contact-option-icon" />
             <h4>Messenger</h4>
             <h5>John Doe</h5>
-            <a href="https://m.me/jonh_doe" target="_blank" rel="noreferrer">
+            <a href="https://m.me/john_doe" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
